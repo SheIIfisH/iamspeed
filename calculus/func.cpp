@@ -1,21 +1,21 @@
 #include "func.h"
 
-double Add(double, double)
+double Add(double a, double b)
 {
-    return 0;
+    return a + b;
 }
 
-double Sub(double, double)
+double Sub(double a, double b)
 {
-    return 0;
+    return a - b;
 }
 
-double Mul(double, double)
+double Mul(double a, double b)
 {
-    return 0;
+    return a * b;
 }
 
-double Div(double, double)
+double Div(double a, double b)
 {
-    return 0;
+    return a / b;
 }
